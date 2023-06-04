@@ -1,0 +1,8 @@
+﻿  Lab7.cpp
+C:\Users\sword\source\repos\Lab7\Lab7\Lab7.cpp(1,1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+C:\Users\sword\source\repos\Lab7\Lab7\Lab7.cpp(1,1): message : "_CRT_SECURE_NO_WARNINGS" ранее объявлен в командной строке
+C:\Users\sword\source\repos\Lab7\Lab7\Lab7.cpp(10,9): warning C4101: p1: неиспользованная локальная переменная
+C:\Users\sword\source\repos\Lab7\Lab7\Lab7.cpp(10,13): warning C4101: p2: неиспользованная локальная переменная
+  person.cpp
+  Создание кода...
+  Lab7.vcxproj -> C:\Users\sword\source\repos\Lab7\x64\Debug\Lab7.exe
